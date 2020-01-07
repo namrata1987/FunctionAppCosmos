@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=lbgpocsa;AccountKey=DynoZy6P/F+IKv/6uZ7e11sL2KWjSwsa9YkqO0mV5H09SwhqYTkOlpoJNaRhVe9tOt7xLERCYivx1VnRPZgeyA==;EndpointSuffix=core.windows.net",
+    "CosmosDBconnectionString":"AccountEndpoint=lbgcosmospoc.cassandra.cosmos.azure.com;AccountKey=ommXu78m2xyJ884YOcPbXMjlr63MCFGtKpWL6KgTPWcPb7AQHi4TXBw1AsnAzfhLAQn2kmPrXtkSXf2N5AHY0Q==;",
+    "EventHubConnectionString":"Endpoint=sb://lbgpoceventhubns.servicebus.windows.net/;SharedAccessKeyName=testpolicy;SharedAccessKey=OYDTI1Yh/HWkx3DMMUczQ/LXiZD02R8jf86/0p9RKh0=;EntityPath=lbgpoceventhub",
+    "FUNCTIONS_WORKER_RUNTIME": "java"
+  }
+}
